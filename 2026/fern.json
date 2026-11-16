@@ -1,0 +1,15 @@
+{
+  "name": "Fern",
+  "url": "https://elevenapril.com/staghornpal",
+  "description": "Growth journal for plant collectors with photo timelines, care logs and lineage trees for pups and divisions",
+  "category": "lifestyle",
+  "platforms": ["ios"],
+  "deal": "30% off lifetime ($34.99, reg. $49.99) with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "lifetime",
+  "price": { "regular": 49.99, "sale": 34.99, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-16",
+  "endDate": "2026-11-30",
+  "icon": "https://elevenapril.com/assets/images/StaghornPalLogo.webp"
+}
